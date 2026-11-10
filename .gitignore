@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+venv/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+.AppleDouble
+
+# Models (too large for GitHub)
+models/
+*.bin
+*.gguf
+*.safetensors
+
+# Audio temp files
+*.wav
+*.mp3
+*.aiff
+*.m4a
+temp/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+

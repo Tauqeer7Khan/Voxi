@@ -1,0 +1,19 @@
+# voxi — Core Dependencies
+# Install with: pip install -r requirements.txt
+
+# Speech-to-Text (STT)
+faster-whisper>=1.0.0,<=1.2.1
+sounddevice>=0.5.0
+scipy>=1.15.0
+numpy>=1.26.0
+
+# LLM & API Communication
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Text-to-Speech (TTS)
+pyttsx3>=2.90
+edge-tts>=7.0.0
+
+# Web Interface
+gradio>=5.0.0
