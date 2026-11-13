@@ -1,4 +1,4 @@
-# 🎙️✨ voxi
+# 🎙️✨ Voxi
 
 > **"your voice, your device, your data."**
 
